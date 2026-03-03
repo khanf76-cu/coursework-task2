@@ -1,9 +1,7 @@
 
 
-# 📄 README.md (Copy Everything Below)
 
-````markdown
-# Coursework Task 2 — Chef’s Hat Gym Reinforcement Learning Agent  
+**Coursework Task 2 — Chef’s Hat Gym Reinforcement Learning Agent**  
 **Student ID mod 7 = 3 — Sparse / Delayed Reward Variant**
 
 ---
