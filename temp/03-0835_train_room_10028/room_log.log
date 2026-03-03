@@ -1,0 +1,240 @@
+2026 03 03 03:08:35 INFO     [Room]: ---------------------------
+2026 03 03 03:08:35 INFO     [Room]: Creating logger
+2026 03 03 03:08:35 INFO     [Room]: [Room]:  - folder: temp/03-0835_train_room_10028
+2026 03 03 03:08:35 INFO     [Room]: [Room]:  - Player _RL_RL connected! Current players: ['_RL_RL']
+2026 03 03 03:08:35 INFO     [Room]: [Room]:  - Player RANDOM_R0 connected! Current players: ['_RL_RL', 'RANDOM_R0']
+2026 03 03 03:08:35 INFO     [Room]: [Room]:  - Player RANDOM_R1 connected! Current players: ['_RL_RL', 'RANDOM_R0', 'RANDOM_R1']
+2026 03 03 03:08:35 INFO     [Room]: [Room]:  - Player RANDOM_R2 connected! Current players: ['_RL_RL', 'RANDOM_R0', 'RANDOM_R1', 'RANDOM_R2']
+2026 03 03 03:08:35 INFO     [Room]: ---------------------------
+2026 03 03 03:08:35 INFO     [Room]: Initializing a game
+2026 03 03 03:08:35 INFO     [Room]:  - Environment initialized!
+2026 03 03 03:08:35 INFO     [Room]: [Room]:  -- Round 1 -  Current player: RANDOM_R1
+2026 03 03 03:08:35 INFO     [Room]: [Room]:  ---- Round 1 Action: C11;Q1;J1
+2026 03 03 03:08:35 INFO     [Room]: [Room]:  -- Round 1 -  Current player: RANDOM_R2
+2026 03 03 03:08:35 INFO     [Room]: [Room]:  ---- Round 1 Action: C10;Q1;J1
+2026 03 03 03:08:35 INFO     [Room]: [Room]:  -- Round 1 -  Current player: _RL_RL
+2026 03 03 03:08:35 INFO     [Room]: [Room]:  ---- Round 1 Action: pass
+2026 03 03 03:08:35 INFO     [Room]: [Room]:  -- Round 1 -  Current player: RANDOM_R0
+2026 03 03 03:08:35 INFO     [Room]: [Room]:  ---- Round 1 Action: C6;Q2;J0
+2026 03 03 03:08:35 INFO     [Room]: [Room]:  -- Round 1 -  Current player: RANDOM_R1
+2026 03 03 03:08:35 INFO     [Room]: [Room]:  ---- Round 1 Action: pass
+2026 03 03 03:08:35 INFO     [Room]: [Room]:  -- Round 1 -  Current player: RANDOM_R2
+2026 03 03 03:08:35 INFO     [Room]: [Room]:  ---- Round 1 Action: C3;Q2;J0
+2026 03 03 03:08:35 INFO     [Room]: [Room]:  -- Round 1 -  Current player: RANDOM_R0
+2026 03 03 03:08:36 INFO     [Room]: [Room]:  ---- Round 2 Action: pass
+2026 03 03 03:08:36 INFO     [Room]: [Room]:  ---- Round 3 Made a Pizza!!
+2026 03 03 03:08:36 INFO     [Room]: [Room]:  -- Round 2 -  Current player: RANDOM_R2
+2026 03 03 03:08:36 INFO     [Room]: [Room]:  ---- Round 2 Action: C5;Q1;J0
+2026 03 03 03:08:36 INFO     [Room]: [Room]:  -- Round 2 -  Current player: _RL_RL
+2026 03 03 03:08:36 INFO     [Room]: [Room]:  ---- Round 2 Action: pass
+2026 03 03 03:08:36 INFO     [Room]: [Room]:  -- Round 2 -  Current player: RANDOM_R0
+2026 03 03 03:08:36 INFO     [Room]: [Room]:  ---- Round 2 Action: C2;Q1;J0
+2026 03 03 03:08:36 INFO     [Room]: [Room]:  -- Round 2 -  Current player: RANDOM_R1
+2026 03 03 03:08:36 INFO     [Room]: [Room]:  ---- Round 2 Action: pass
+2026 03 03 03:08:36 INFO     [Room]: [Room]:  -- Round 2 -  Current player: RANDOM_R2
+2026 03 03 03:08:36 INFO     [Room]: [Room]:  ---- Round 3 Action: pass
+2026 03 03 03:08:36 INFO     [Room]: [Room]:  ---- Round 1 Made a Pizza!!
+2026 03 03 03:08:36 INFO     [Room]: [Room]:  -- Round 3 -  Current player: RANDOM_R0
+2026 03 03 03:08:36 INFO     [Room]: [Room]:  ---- Round 3 Action: C7;Q2;J0
+2026 03 03 03:08:36 INFO     [Room]: [Room]:  -- Round 3 -  Current player: RANDOM_R1
+2026 03 03 03:08:36 INFO     [Room]: [Room]:  ---- Round 3 Action: C6;Q3;J0
+2026 03 03 03:08:36 INFO     [Room]: [Room]:  -- Round 3 -  Current player: RANDOM_R2
+2026 03 03 03:08:36 INFO     [Room]: [Room]:  ---- Round 3 Action: pass
+2026 03 03 03:08:36 INFO     [Room]: [Room]:  -- Round 3 -  Current player: _RL_RL
+2026 03 03 03:08:36 INFO     [Room]: [Room]:  ---- Round 3 Action: pass
+2026 03 03 03:08:36 INFO     [Room]: [Room]:  -- Round 3 -  Current player: RANDOM_R0
+2026 03 03 03:08:36 INFO     [Room]: [Room]:  ---- Round 4 Action: pass
+2026 03 03 03:08:36 INFO     [Room]: [Room]:  ---- Round 2 Made a Pizza!!
+2026 03 03 03:08:36 INFO     [Room]: [Room]:  -- Round 4 -  Current player: RANDOM_R1
+2026 03 03 03:08:36 INFO     [Room]: [Room]:  ---- Round 4 Action: C5;Q1;J0
+2026 03 03 03:08:36 INFO     [Room]: [Room]:  -- Round 4 -  Current player: RANDOM_R2
+2026 03 03 03:08:36 INFO     [Room]: [Room]:  ---- Round 4 Action: pass
+2026 03 03 03:08:36 INFO     [Room]: [Room]:  -- Round 4 -  Current player: _RL_RL
+2026 03 03 03:08:36 INFO     [Room]: [Room]:  ---- Round 4 Action: pass
+2026 03 03 03:08:36 INFO     [Room]: [Room]:  -- Round 4 -  Current player: RANDOM_R0
+2026 03 03 03:08:36 INFO     [Room]: [Room]:  ---- Round 4 Action: C4;Q2;J0
+2026 03 03 03:08:36 INFO     [Room]: [Room]:  -- Round 4 -  Current player: RANDOM_R1
+2026 03 03 03:08:36 INFO     [Room]: [Room]:  ---- Round 5 Action: pass
+2026 03 03 03:08:36 INFO     [Room]: [Room]:  ---- Round 1 Made a Pizza!!
+2026 03 03 03:08:36 INFO     [Room]: [Room]:  -- Round 5 -  Current player: RANDOM_R0
+2026 03 03 03:08:36 INFO     [Room]: [Room]:  ---- Round 5 Action: C9;Q2;J0
+2026 03 03 03:08:36 INFO     [Room]: [Room]:  -- Round 5 -  Current player: RANDOM_R1
+2026 03 03 03:08:36 INFO     [Room]: [Room]:  ---- Round 5 Action: C8;Q3;J0
+2026 03 03 03:08:36 INFO     [Room]: [Room]:  -- Round 5 -  Current player: RANDOM_R2
+2026 03 03 03:08:36 INFO     [Room]: [Room]:  ---- Round 5 Action: pass
+2026 03 03 03:08:36 INFO     [Room]: [Room]:  -- Round 5 -  Current player: _RL_RL
+2026 03 03 03:08:36 INFO     [Room]: [Room]:  ---- Round 5 Action: pass
+2026 03 03 03:08:36 INFO     [Room]: [Room]:  -- Round 5 -  Current player: RANDOM_R0
+2026 03 03 03:08:36 INFO     [Room]: [Room]:  ---- Round 6 Action: pass
+2026 03 03 03:08:36 INFO     [Room]: [Room]:  ---- Round 2 Made a Pizza!!
+2026 03 03 03:08:36 INFO     [Room]: [Room]:  -- Round 6 -  Current player: RANDOM_R1
+2026 03 03 03:08:36 INFO     [Room]: [Room]:  ---- Round 6 Action: C4;Q1;J0
+2026 03 03 03:08:36 INFO     [Room]: [Room]:  -- Round 6 -  Current player: RANDOM_R2
+2026 03 03 03:08:36 INFO     [Room]: [Room]:  ---- Round 6 Action: pass
+2026 03 03 03:08:36 INFO     [Room]: [Room]:  -- Round 6 -  Current player: _RL_RL
+2026 03 03 03:08:36 INFO     [Room]: [Room]:  ---- Round 6 Action: C1;Q1;J0
+2026 03 03 03:08:36 INFO     [Room]: [Room]:  -- Round 6 -  Current player: RANDOM_R0
+2026 03 03 03:08:36 INFO     [Room]: [Room]:  ---- Round 6 Action: pass
+2026 03 03 03:08:36 INFO     [Room]: [Room]:  -- Round 6 -  Current player: RANDOM_R1
+2026 03 03 03:08:36 INFO     [Room]: [Room]:  ---- Round 7 Action: pass
+2026 03 03 03:08:36 INFO     [Room]: [Room]:  ---- Round 0 Made a Pizza!!
+2026 03 03 03:08:36 INFO     [Room]: [Room]:  -- Round 7 -  Current player: _RL_RL
+2026 03 03 03:08:36 INFO     [Room]: [Room]:  ---- Round 7 Action: C9;Q1;J0
+2026 03 03 03:08:36 INFO     [Room]: [Room]:  -- Round 7 -  Current player: RANDOM_R0
+2026 03 03 03:08:36 INFO     [Room]: [Room]:  ---- Round 7 Action: C8;Q1;J0
+2026 03 03 03:08:36 INFO     [Room]: [Room]:  -- Round 7 -  Current player: RANDOM_R1
+2026 03 03 03:08:36 INFO     [Room]: [Room]:  ---- Round 7 Action: C7;Q2;J0
+2026 03 03 03:08:36 INFO     [Room]: [Room]:  -- Round 7 -  Current player: RANDOM_R2
+2026 03 03 03:08:36 INFO     [Room]: [Room]:  ---- Round 7 Action: pass
+2026 03 03 03:08:36 INFO     [Room]: [Room]:  -- Round 7 -  Current player: _RL_RL
+2026 03 03 03:08:36 INFO     [Room]: [Room]:  ---- Round 7 Action: pass
+2026 03 03 03:08:36 INFO     [Room]: [Room]:  -- Round 7 -  Current player: RANDOM_R0
+2026 03 03 03:08:36 INFO     [Room]: [Room]:  ---- Round 8 Action: pass
+2026 03 03 03:08:36 INFO     [Room]: [Room]:  ---- Round 2 Made a Pizza!!
+2026 03 03 03:08:36 INFO     [Room]: [Room]:  -- Round 8 -  Current player: RANDOM_R1
+2026 03 03 03:08:36 INFO     [Room]: [Room]:  ---- Round 8 Action: C2;Q1;J0
+2026 03 03 03:08:36 INFO     [Room]: [Room]:  -- Round 8 -  Current player: RANDOM_R2
+2026 03 03 03:08:36 INFO     [Room]: [Room]:  ---- Round 8 Action: pass
+2026 03 03 03:08:36 INFO     [Room]: [Room]:  -- Round 8 -  Current player: _RL_RL
+2026 03 03 03:08:36 INFO     [Room]: [Room]:  ---- Round 8 Action: pass
+2026 03 03 03:08:36 INFO     [Room]: [Room]:  -- Round 8 -  Current player: RANDOM_R0
+2026 03 03 03:08:36 INFO     [Room]: [Room]:  ---- Round 9 Action: pass
+2026 03 03 03:08:36 INFO     [Room]: [Room]:  ---- Round 2 Made a Pizza!!
+2026 03 03 03:08:36 INFO     [Room]: [Room]:  -- Round 9 -  Current player: RANDOM_R1
+2026 03 03 03:08:36 INFO     [Room]: [Room]:  ---- Round 9 Action: C10;Q3;J0
+2026 03 03 03:08:36 INFO     [Room]: [Room]:  -- Round 9 -  Current player: RANDOM_R2
+2026 03 03 03:08:36 INFO     [Room]: [Room]:  ---- Round 9 Action: pass
+2026 03 03 03:08:36 INFO     [Room]: [Room]:  -- Round 9 -  Current player: _RL_RL
+2026 03 03 03:08:36 INFO     [Room]: [Room]:  ---- Round 9 Action: pass
+2026 03 03 03:08:36 INFO     [Room]: [Room]:  -- Round 9 -  Current player: RANDOM_R0
+2026 03 03 03:08:36 INFO     [Room]: [Room]:  ---- Round 10 Action: pass
+2026 03 03 03:08:36 INFO     [Room]: [Room]:  ---- Round 2 Made a Pizza!!
+2026 03 03 03:08:36 INFO     [Room]: [Room]:  -- Round 10 -  Current player: RANDOM_R1
+2026 03 03 03:08:37 INFO     [Room]: [Room]:  ---- Round 10 Action: pass
+2026 03 03 03:08:37 INFO     [Room]: [Room]:  -- Round 10 -  Current player: RANDOM_R2
+2026 03 03 03:08:37 INFO     [Room]: [Room]:  ---- Round 10 Action: C4;Q1;J0
+2026 03 03 03:08:37 INFO     [Room]: [Room]:  -- Round 10 -  Current player: _RL_RL
+2026 03 03 03:08:37 INFO     [Room]: [Room]:  ---- Round 10 Action: pass
+2026 03 03 03:08:37 INFO     [Room]: [Room]:  -- Round 10 -  Current player: RANDOM_R0
+2026 03 03 03:08:37 INFO     [Room]: [Room]:  ---- Round 11 Action: pass
+2026 03 03 03:08:37 INFO     [Room]: [Room]:  ---- Round 3 Made a Pizza!!
+2026 03 03 03:08:37 INFO     [Room]: [Room]:  -- Round 11 -  Current player: RANDOM_R2
+2026 03 03 03:08:37 INFO     [Room]: [Room]:  ---- Round 11 Action: C11;Q1;J0
+2026 03 03 03:08:37 INFO     [Room]: [Room]:  -- Round 11 -  Current player: _RL_RL
+2026 03 03 03:08:37 INFO     [Room]: [Room]:  ---- Round 11 Action: C5;Q2;J0
+2026 03 03 03:08:37 INFO     [Room]: [Room]:  -- Round 11 -  Current player: RANDOM_R0
+2026 03 03 03:08:37 INFO     [Room]: [Room]:  ---- Round 11 Action: pass
+2026 03 03 03:08:37 INFO     [Room]: [Room]:  -- Round 11 -  Current player: RANDOM_R1
+2026 03 03 03:08:37 INFO     [Room]: [Room]:  ---- Round 11 Action: pass
+2026 03 03 03:08:37 INFO     [Room]: [Room]:  -- Round 11 -  Current player: RANDOM_R2
+2026 03 03 03:08:37 INFO     [Room]: [Room]:  ---- Round 12 Action: pass
+2026 03 03 03:08:37 INFO     [Room]: [Room]:  ---- Round 0 Made a Pizza!!
+2026 03 03 03:08:37 INFO     [Room]: [Room]:  -- Round 12 -  Current player: _RL_RL
+2026 03 03 03:08:37 INFO     [Room]: [Room]:  ---- Round 12 Action: C11;Q4;J0
+2026 03 03 03:08:37 INFO     [Room]: [Room]:  -- Round 12 -  Current player: RANDOM_R0
+2026 03 03 03:08:37 INFO     [Room]: [Room]:  ---- Round 12 Action: pass
+2026 03 03 03:08:37 INFO     [Room]: [Room]:  -- Round 12 -  Current player: RANDOM_R1
+2026 03 03 03:08:37 INFO     [Room]: [Room]:  ---- Round 12 Action: pass
+2026 03 03 03:08:37 INFO     [Room]: [Room]:  -- Round 12 -  Current player: RANDOM_R2
+2026 03 03 03:08:37 INFO     [Room]: [Room]:  ---- Round 13 Action: pass
+2026 03 03 03:08:37 INFO     [Room]: [Room]:  ---- Round 0 Made a Pizza!!
+2026 03 03 03:08:37 INFO     [Room]: [Room]:  -- Round 13 -  Current player: _RL_RL
+2026 03 03 03:08:37 INFO     [Room]: [Room]:  ---- Round 13 Action: C9;Q2;J0
+2026 03 03 03:08:37 INFO     [Room]: [Room]:  -- Round 13 -  Current player: RANDOM_R0
+2026 03 03 03:08:37 INFO     [Room]: [Room]:  ---- Round 13 Action: pass
+2026 03 03 03:08:37 INFO     [Room]: [Room]:  -- Round 13 -  Current player: RANDOM_R1
+2026 03 03 03:08:37 INFO     [Room]: [Room]:  ---- Round 13 Action: pass
+2026 03 03 03:08:37 INFO     [Room]: [Room]:  -- Round 13 -  Current player: RANDOM_R2
+2026 03 03 03:08:37 INFO     [Room]: [Room]:  ---- Round 13 Action: C7;Q2;J0
+2026 03 03 03:08:37 INFO     [Room]: [Room]:  -- Round 13 -  Current player: _RL_RL
+2026 03 03 03:08:37 INFO     [Room]: [Room]:  ---- Round 14 Action: pass
+2026 03 03 03:08:37 INFO     [Room]: [Room]:  ---- Round 3 Made a Pizza!!
+2026 03 03 03:08:37 INFO     [Room]: [Room]:  -- Round 14 -  Current player: RANDOM_R2
+2026 03 03 03:08:37 INFO     [Room]: [Room]:  ---- Round 14 Action: C11;Q2;J0
+2026 03 03 03:08:37 INFO     [Room]: [Room]:  -- Round 14 -  Current player: _RL_RL
+2026 03 03 03:08:37 INFO     [Room]: [Room]:  ---- Round 14 Action: C10;Q2;J0
+2026 03 03 03:08:37 INFO     [Room]: [Room]:  -- Round 14 -  Current player: RANDOM_R0
+2026 03 03 03:08:37 INFO     [Room]: [Room]:  ---- Round 14 Action: pass
+2026 03 03 03:08:37 INFO     [Room]: [Room]:  -- Round 14 -  Current player: RANDOM_R1
+2026 03 03 03:08:37 INFO     [Room]: [Room]:  ---- Round 14 Action: pass
+2026 03 03 03:08:37 INFO     [Room]: [Room]:  -- Round 14 -  Current player: RANDOM_R2
+2026 03 03 03:08:37 INFO     [Room]: [Room]:  ---- Round 14 Action: C8;Q2;J0
+2026 03 03 03:08:37 INFO     [Room]: [Room]:  -- Round 14 -  Current player: _RL_RL
+2026 03 03 03:08:37 INFO     [Room]: [Room]:  ---- Round 15 Action: pass
+2026 03 03 03:08:37 INFO     [Room]: [Room]:  ---- Round 3 Made a Pizza!!
+2026 03 03 03:08:37 INFO     [Room]: [Room]:  -- Round 15 -  Current player: RANDOM_R2
+2026 03 03 03:08:37 INFO     [Room]: [Room]:  ---- Round 15 Action: C9;Q2;J0
+2026 03 03 03:08:37 INFO     [Room]: [Room]:  -- Round 15 -  Current player: _RL_RL
+2026 03 03 03:08:37 INFO     [Room]: [Room]:  ---- Round 15 Action: pass
+2026 03 03 03:08:37 INFO     [Room]: [Room]:  -- Round 15 -  Current player: RANDOM_R0
+2026 03 03 03:08:37 INFO     [Room]: [Room]:  ---- Round 15 Action: pass
+2026 03 03 03:08:37 INFO     [Room]: [Room]:  -- Round 15 -  Current player: RANDOM_R1
+2026 03 03 03:08:37 INFO     [Room]: [Room]:  ---- Round 16 Action: pass
+2026 03 03 03:08:37 INFO     [Room]: [Room]:  ---- Round 3 Made a Pizza!!
+2026 03 03 03:08:37 INFO     [Room]: [Room]:  -- Round 16 -  Current player: RANDOM_R2
+2026 03 03 03:08:37 INFO     [Room]: [Room]:  ---- Round 16 Action: C9;Q1;J0
+2026 03 03 03:08:37 INFO     [Room]: [Room]:  -- Round 16 -  Current player: _RL_RL
+2026 03 03 03:08:37 INFO     [Room]: [Room]:  ---- Round 16 Action: pass
+2026 03 03 03:08:37 INFO     [Room]: [Room]:  -- Round 16 -  Current player: RANDOM_R0
+2026 03 03 03:08:37 INFO     [Room]: [Room]:  ---- Round 16 Action: C3;Q1;J0
+2026 03 03 03:08:37 INFO     [Room]: [Room]:  -- Round 16 -  Current player: RANDOM_R1
+2026 03 03 03:08:37 INFO     [Room]: [Room]:  ---- Round 16 Action: pass
+2026 03 03 03:08:37 INFO     [Room]: [Room]:  -- Round 16 -  Current player: RANDOM_R2
+2026 03 03 03:08:37 INFO     [Room]: [Room]:  ---- Round 17 Action: pass
+2026 03 03 03:08:37 INFO     [Room]: [Room]:  ---- Round 1 Made a Pizza!!
+2026 03 03 03:08:37 INFO     [Room]: [Room]:  -- Round 17 -  Current player: RANDOM_R0
+2026 03 03 03:08:37 INFO     [Room]: [Room]:  ---- Round 17 Action: C11;Q2;J0
+2026 03 03 03:08:37 INFO     [Room]: [Room]:  -- Round 17 -  Current player: RANDOM_R1
+2026 03 03 03:08:37 INFO     [Room]: [Room]:  ---- Round 17 Action: pass
+2026 03 03 03:08:37 INFO     [Room]: [Room]:  -- Round 17 -  Current player: RANDOM_R2
+2026 03 03 03:08:37 INFO     [Room]: [Room]:  ---- Round 17 Action: pass
+2026 03 03 03:08:37 INFO     [Room]: [Room]:  -- Round 17 -  Current player: _RL_RL
+2026 03 03 03:08:37 INFO     [Room]: [Room]:  ---- Round 18 Action: pass
+2026 03 03 03:08:37 INFO     [Room]: [Room]:  ---- Round 1 Made a Pizza!!
+2026 03 03 03:08:37 INFO     [Room]: [Room]:  -- Round 18 -  Current player: RANDOM_R0
+2026 03 03 03:08:37 INFO     [Room]: [Room]:  ---- Round 18 Action: pass
+2026 03 03 03:08:37 INFO     [Room]: [Room]:  -- Round 18 -  Current player: RANDOM_R1
+2026 03 03 03:08:37 INFO     [Room]: [Room]:  ---- Round 18 Action: pass
+2026 03 03 03:08:37 INFO     [Room]: [Room]:  -- Round 18 -  Current player: RANDOM_R2
+2026 03 03 03:08:37 INFO     [Room]: [Room]:  ---- Round 18 Action: pass
+2026 03 03 03:08:37 INFO     [Room]: [Room]:  -- Round 18 -  Current player: _RL_RL
+2026 03 03 03:08:37 INFO     [Room]: [Room]:  ---- Round 19 Action: C10;Q1;J0
+2026 03 03 03:08:37 INFO     [Room]: [Room]:  ---- Round 0 Made a Pizza!!
+2026 03 03 03:08:37 INFO     [Room]: [Room]:  -- Round 19 -  Current player: _RL_RL
+2026 03 03 03:08:37 INFO     [Room]: [Room]:  ---- Round 19 Action: pass
+2026 03 03 03:08:37 INFO     [Room]: [Room]:  -- Round 19 -  Current player: RANDOM_R0
+2026 03 03 03:08:37 INFO     [Room]: [Room]:  ---- Round 19 Action: pass
+2026 03 03 03:08:37 INFO     [Room]: [Room]:  -- Round 19 -  Current player: RANDOM_R1
+2026 03 03 03:08:37 INFO     [Room]: [Room]:  ---- Round 19 Action: pass
+2026 03 03 03:08:37 INFO     [Room]: [Room]:  -- Round 19 -  Current player: RANDOM_R2
+2026 03 03 03:08:37 INFO     [Room]: [Room]:  ---- Round 20 Action: C8;Q1;J0
+2026 03 03 03:08:37 INFO     [Room]: [Room]:  ---- Round 3 Made a Pizza!!
+2026 03 03 03:08:37 INFO     [Room]: [Room]:  -- Round 20 -  Current player: _RL_RL
+2026 03 03 03:08:37 INFO     [Room]: [Room]:  ---- Round 20 Action: C6;Q1;J0
+2026 03 03 03:08:37 INFO     [Room]: [Room]:  -- Round 20 -  Current player: RANDOM_R0
+2026 03 03 03:08:38 INFO     [Room]: [Room]:  ---- Round 20 Action: C5;Q1;J0
+2026 03 03 03:08:38 INFO     [Room]: [Room]:  -- Round 20 -  Current player: RANDOM_R1
+2026 03 03 03:08:38 INFO     [Room]: [Room]:  ---- Round 20 Action: pass
+2026 03 03 03:08:38 INFO     [Room]: [Room]:  -- Round 20 -  Current player: _RL_RL
+2026 03 03 03:08:38 INFO     [Room]: [Room]:  ---- Round 21 Action: pass
+2026 03 03 03:08:38 INFO     [Room]: [Room]:  ---- Round 1 Made a Pizza!!
+2026 03 03 03:08:38 INFO     [Room]: [Room]:  -- Round 21 -  Current player: RANDOM_R0
+2026 03 03 03:08:38 INFO     [Room]: [Room]:  ---- Round 21 Action: C10;Q1;J0
+2026 03 03 03:08:38 INFO     [Room]: [Room]:  -- Round 21 -  Current player: RANDOM_R1
+2026 03 03 03:08:38 INFO     [Room]: [Room]:  ---- Round 21 Action: pass
+2026 03 03 03:08:38 INFO     [Room]: [Room]:  -- Round 21 -  Current player: _RL_RL
+2026 03 03 03:08:38 INFO     [Room]: [Room]:  ---- Round 21 Action: C7;Q1;J0
+2026 03 03 03:08:38 INFO     [Room]: [Room]:  -- Round 21 -  Current player: RANDOM_R0
+2026 03 03 03:08:38 INFO     [Room]: [Room]:  ---- Round 22 Action: pass
+2026 03 03 03:08:38 INFO     [Room]: [Room]:  ---- Round 0 Made a Pizza!!
+2026 03 03 03:08:38 INFO     [Room]: [Room]:  -- Round 22 -  Current player: _RL_RL
+2026 03 03 03:08:38 INFO     [Room]: [Room]:  ---- Round 22 Action: pass
+2026 03 03 03:08:38 INFO     [Room]: [Room]:  -- Round 22 -  Current player: RANDOM_R0
+2026 03 03 03:08:38 INFO     [Room]: [Room]:  ---- Round 22 Action: C10;Q2;J0
+2026 03 03 03:08:38 INFO     [Room]: [Room]:  -- Round 22 -  Current player: RANDOM_R1
+2026 03 03 03:08:38 INFO     [Room]: [Room]:  ---- Round 23 Action: pass
+2026 03 03 03:08:38 INFO     [Room]: [Room]:  ---- Round 1 Made a Pizza!!
+2026 03 03 03:08:38 INFO     [Room]: [Room]:  -- Round 23 -  Current player: RANDOM_R1
+2026 03 03 03:08:38 INFO     [Room]: [Room]:  ---- Round 23 Action: C11;Q1;J0
+2026 03 03 03:08:38 INFO     [Room]: [Room]:  -- Match over! Total rounds: 23
+2026 03 03 03:08:38 INFO     [Room]: [Room]:  -- Game over! Total game duration: 2.45823 seconds!
